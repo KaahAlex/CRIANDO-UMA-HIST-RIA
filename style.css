@@ -1,6 +1,15 @@
 body {
-background-color: #FA8072;
-color: black;
-font-family: "Nerko One", cursive;
-display: flex;
+    background-color: #FA8072;
+    color: black;
+    font-family: "Nerko One", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
 }
+
+    button{
+        background-color: pink;
+    }
