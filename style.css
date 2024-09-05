@@ -16,7 +16,7 @@ body {
         color: black;
         font-family: "Dosis", sans-serif;
     }
-    
+
     .passo {
         display: none;
     }
@@ -27,7 +27,7 @@ body {
     
     main {
         text-align: center;
-        max-width: 90%;
+        max-width: 100%;
     }
     
     img {
