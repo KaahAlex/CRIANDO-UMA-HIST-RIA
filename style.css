@@ -8,10 +8,6 @@ body {
     align-items: center;
     height: 700px;
     margin: 0;
-
-}
-
-p{
     font-size: 30px;
 }
 
@@ -19,7 +15,6 @@ p{
         background-color: #F5D9B4;
         color: black;
         font-family: "Dosis", sans-serif;
-        font-size: 20px;
     }
 
     .passo {
