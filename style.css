@@ -11,10 +11,15 @@ body {
 
 }
 
+p{
+    font-size: 30px;
+}
+
     button{
         background-color: #F5D9B4;
         color: black;
         font-family: "Dosis", sans-serif;
+        font-size: 20px;
     }
 
     .passo {
